@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1457871073 source:f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\cmdmanager.cpp
+	<iostream>
+	"CmdManager.h"
+
+1457868297 f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\cmdmanager.h
+	"CourseManager.h"
+	"Cmd.h"
+	<map>
+	<iostream>
+
+1457865393 f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\coursemanager.h
+	<vector>
+	"Course.h"
+
+1457870889 f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\course.h
+	<string>
+
+1457870981 f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\cmd.h
+
+1457870999 source:f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\course.cpp
+	<iostream>
+	"Course.h"
+
+1457867294 source:f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\coursemanager.cpp
+	<stdexcept>
+	<iostream>
+	"CourseManager.h"
+
+1457871022 source:f:\c++programming\笔试题汇总\项目练习（重点）\课程管理系统\coursemanagersystem\cmsys\main.cpp
+	"CmdManager.h"
+
